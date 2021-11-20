@@ -1,11 +1,6 @@
 ### Hi there 👋
-
-<!--
-**aryan619348/aryan619348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan619348&theme=monokai-metallian"  width=400 alt="Streak Stats!">
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
