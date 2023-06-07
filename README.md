@@ -10,3 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--START_SECTION:badges-->
+https://learn.microsoft.com/en-us/training/achievements/learn.wwl.explore-natural-language-processing.trophy?username=AryanPillai-9004&sharingId=194FA7E6EB7408F1
+
+<!--END_SECTION:badges-->
